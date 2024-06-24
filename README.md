@@ -3,7 +3,7 @@
 
 - 📚 I am currently studying TI at [Alcides Maya](https://alcidesmaya.edu.br/)
 - 📚 I have a Bachelors in Statistic from [UFRGS](http://www.ufrgs.br/ufrgs/inicial)
-- 📚 I have a Bachelors in Statistic from [UFRGS](http://www.ufrgs.br/ufrgs/inicial)
+<!-- - 📚 I have a Bachelors in Statistic from [UFRGS](http://www.ufrgs.br/ufrgs/inicial) -->
 - 📝 I have a strong interest in Data Science and Big Data
 - 🌱 Learning about HTML5, Javascript and css
 - 🌟 Main languages: R, SQL and Python
